@@ -1,4 +1,4 @@
 @import 'reset.css';
-@import 'https://fonts.googleapis.com/css?family=PT+Sans|PT+Sans+Caption';
+@import url('https://fonts.googleapis.com/css?family=PT+Sans+Caption:400,700|PT+Sans:400,400i,700,700i&display=swap&subset=cyrillic-ext');
 @import 'layout.css';
 @import 'sidebar.css';
